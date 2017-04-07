@@ -1,0 +1,2 @@
+# MagicBall
+tkinter practice
